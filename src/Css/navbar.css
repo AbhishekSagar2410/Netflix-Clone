@@ -1,0 +1,27 @@
+
+.mynavbar{
+    position:fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    transition-timing-function: ease-in;
+    transition: all 0.45s;
+}
+
+.mynavbar_black{
+    
+    background-color: black;
+}
+
+.navbarLogo{
+    width: 10rem;
+    object-fit: contain;
+    height: 5rem;
+    margin-left: 2rem;
+}
+
+.netflix_heading{
+    color: red;
+    font-family: inherit;
+    margin: 2rem 0rem 2rem 3rem;
+}
